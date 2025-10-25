@@ -1,0 +1,10 @@
+name="aashish"
+print("orizanal Name "+name)
+print(len(name))
+print(name.startswith("aa"))
+print(name.endswith("sh"))
+print(name.capitalize())
+print(name.upper())
+print(name.lower())
+name=input("enter yout name")
+print(f"Hello !{ name } !!")

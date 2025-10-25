@@ -1,0 +1,8 @@
+s=set()
+s.add(10)
+s.add("10")
+s.add('10')
+s.add(10.0)
+s.add(10.1)
+print("Checking set Data" +str(s))
+print("checking Leangth Of Set is "+str(len(s)))
