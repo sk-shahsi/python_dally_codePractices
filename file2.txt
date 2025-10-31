@@ -1,2 +1,2 @@
-This is created using the 'x' mode in Python. 
-Next line.
+The file is overwritten using 'w' model in python. 
+Have a nice day!!

@@ -1,0 +1,10 @@
+{
+    "student": {
+        "roll": 123,
+        "sport": true
+    },
+    "student1": {
+        "roll": 569,
+        "sport": false
+    }
+}
