@@ -6,8 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="194a8cdb-f97c-452f-91dc-f78a76e5912b" name="Changes" comment="updated codes">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/file2.txt" beforeDir="false" afterPath="$PROJECT_DIR$/file2.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice.txt" beforeDir="false" afterPath="$PROJECT_DIR$/practice.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -133,7 +131,7 @@
       <updated>1760697943928</updated>
       <workItem from="1760697945407" duration="229000" />
       <workItem from="1761121373777" duration="38363000" />
-      <workItem from="1761803363133" duration="28788000" />
+      <workItem from="1761803363133" duration="30323000" />
     </task>
     <task id="LOCAL-00001" summary="updated codes">
       <option name="closed" value="true" />
@@ -168,7 +166,7 @@
     <SUITE FILE_PATH="coverage/Python$set.coverage" NAME="set Coverage Results" MODIFIED="1761216867899" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Python$9_function.coverage" NAME="9_function Coverage Results" MODIFIED="1761806107269" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/function&amp;Recurson" />
     <SUITE FILE_PATH="coverage/Python$max_min_number_loop.coverage" NAME="max_min_number_loop Coverage Results" MODIFIED="1761459607865" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Python$The_with_statment.coverage" NAME="The_with_statment Coverage Results" MODIFIED="1761915881014" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Python$The_with_statment.coverage" NAME="The_with_statment Coverage Results" MODIFIED="1761916153317" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Python$frozen_set.coverage" NAME="frozen_set Coverage Results" MODIFIED="1761316601230" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Python$filter.coverage" NAME="filter Coverage Results" MODIFIED="1761832098172" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/function&amp;Recurson" />
     <SUITE FILE_PATH="coverage/Python$Intro_file_handling.coverage" NAME="Intro_file_handling Coverage Results" MODIFIED="1761910210183" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
