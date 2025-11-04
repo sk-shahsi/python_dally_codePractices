@@ -6,7 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="194a8cdb-f97c-452f-91dc-f78a76e5912b" name="Changes" comment="updated codes">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/object_orinted_programing/inheritance.py" beforeDir="false" afterPath="$PROJECT_DIR$/object_orinted_programing/inheritance.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/object_orinted_programing/polymorphism.py" beforeDir="false" afterPath="$PROJECT_DIR$/object_orinted_programing/polymorphism.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,6 +68,7 @@
     "Python.continue_breal.executor": "Run",
     "Python.creat_file.executor": "Run",
     "Python.creating_classes.executor": "Run",
+    "Python.custom_Exception.executor": "Run",
     "Python.dic_key_value.executor": "Run",
     "Python.dict_3.executor": "Run",
     "Python.dictonary.executor": "Run",
@@ -96,9 +97,11 @@
     "Python.numrical_opration_onl_ist.executor": "Run",
     "Python.odd_even_number.executor": "Run",
     "Python.oops_in_python.executor": "Run",
+    "Python.operator_overloding.executor": "Run",
     "Python.pass_function_as_argument.executor": "Run",
     "Python.pickel_module.executor": "Run",
     "Python.piclle_module.executor": "Run",
+    "Python.polymorphism.executor": "Run",
     "Python.quantifiers.executor": "Run",
     "Python.random_module.executor": "Run",
     "Python.range_python.executor": "Run",
@@ -155,7 +158,7 @@
       <workItem from="1761121373777" duration="38363000" />
       <workItem from="1761803363133" duration="48041000" />
       <workItem from="1762175485827" duration="5360000" />
-      <workItem from="1762222753232" duration="3261000" />
+      <workItem from="1762222753232" duration="5948000" />
     </task>
     <task id="LOCAL-00001" summary="updated codes">
       <option name="closed" value="true" />
@@ -209,6 +212,8 @@
     <SUITE FILE_PATH="coverage/Python$re_compile__.coverage" NAME="re_compile() Coverage Results" MODIFIED="1761975404158" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Python$set_2.coverage" NAME="set_2 Coverage Results" MODIFIED="1761217699099" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Python$local_variable.coverage" NAME="local_variable Coverage Results" MODIFIED="1761821264813" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/function&amp;Recurson" />
+    <SUITE FILE_PATH="coverage/Python$polymorphism.coverage" NAME="polymorphism Coverage Results" MODIFIED="1762240713923" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/object_orinted_programing" />
+    <SUITE FILE_PATH="coverage/Python$custom_Exception.coverage" NAME="custom_Exception Coverage Results" MODIFIED="1762242756478" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/object_orinted_programing" />
     <SUITE FILE_PATH="coverage/Python$die_game.coverage" NAME="die_game Coverage Results" MODIFIED="1761589421742" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Python$pickel_module.coverage" NAME="pickel_module Coverage Results" MODIFIED="1761909102975" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Python$piclle_module.coverage" NAME="piclle_module Coverage Results" MODIFIED="1761911789052" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -256,6 +261,7 @@
     <SUITE FILE_PATH="coverage/Python$creat_file.coverage" NAME="creat_file Coverage Results" MODIFIED="1761893692419" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Python$anonums_function.coverage" NAME="anonums_function Coverage Results" MODIFIED="1761822358204" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/function&amp;Recurson" />
     <SUITE FILE_PATH="coverage/Python$singleInheritance.coverage" NAME="singleInheritance Coverage Results" MODIFIED="1762224313185" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/object_orinted_programing" />
+    <SUITE FILE_PATH="coverage/Python$operator_overloding.coverage" NAME="operator_overloding Coverage Results" MODIFIED="1762240122828" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/object_orinted_programing" />
     <SUITE FILE_PATH="coverage/Python$match_regex.coverage" NAME="match_regex Coverage Results" MODIFIED="1761973627191" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Python$regex_spacel_chars.coverage" NAME="regex_spacel_chars Coverage Results" MODIFIED="1761968840828" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Python$tuple.coverage" NAME="tuple Coverage Results" MODIFIED="1761203919746" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/listPython/tupplePython" />
