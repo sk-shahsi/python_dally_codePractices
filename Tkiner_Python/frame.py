@@ -4,16 +4,22 @@ from tkinter import ttk
 window =tk.Tk()
 window.title("My application")
 
-lable = tk.Label(window, text="Hello World",bg="red",fg="white")
-lable.pack()
-window.mainloop()
-lable.pack()
+my_frame = ttk.Frame()
+my_frame.pack(side="left",fill="both",expand=True)
+
+lable1 = tk.Label(my_frame, text="Hello World",bg="black",fg="white")
+lable1.pack(side="left",fill="both",expand=True)
+
+
+
 
 lable2= tk.Label(text="How are you??",bg="red")
-lable2.pack()
+lable2.pack(side="top",fill="both",expand=True)
 
-lable2.pack()
 
-Lable3 = tk.Label(text="Have a nice day!!!")
-Lable3.pack()
+
+Lable3 = tk.Label(text="Have a nice day!!!",bg="pink")
+Lable3.pack(side="top",fill="both",expand=True)
+
+
 window.mainloop()

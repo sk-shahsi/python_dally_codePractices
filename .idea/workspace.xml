@@ -5,7 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="194a8cdb-f97c-452f-91dc-f78a76e5912b" name="Changes" comment="updated codes">
-      <change afterPath="$PROJECT_DIR$/Tkiner_Python/frame.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tkiner_Python/Quettin_TheWindow.py" beforeDir="false" afterPath="$PROJECT_DIR$/Tkiner_Python/Quettin_TheWindow.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tkiner_Python/frame.py" beforeDir="false" afterPath="$PROJECT_DIR$/Tkiner_Python/frame.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,108 +44,108 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "Python.1_random_module.executor": "Run",
-    "Python.8_function.executor": "Run",
-    "Python.9_function.executor": "Run",
-    "Python.AppendingContant to a file.executor": "Run",
-    "Python.Error_Exception_handling.executor": "Run",
-    "Python.Exception_handling.executor": "Run",
-    "Python.Intro_file_handling.executor": "Run",
-    "Python.Phone_book.executor": "Run",
-    "Python.Quettin_TheWindow.executor": "Run",
-    "Python.RegEx.executor": "Run",
-    "Python.The_with_statment.executor": "Run",
-    "Python.anonums_function.executor": "Run",
-    "Python.arithmetic.executor": "Run",
-    "Python.atribute.executor": "Run",
-    "Python.butten_property_lable.executor": "Run",
-    "Python.ch2qustiin4.executor": "Run",
-    "Python.check_file_exists.executor": "Run",
-    "Python.class.executor": "Run",
-    "Python.class_variable.executor": "Run",
-    "Python.common_issue_file.executor": "Run",
-    "Python.conditional_operation.executor": "Run",
-    "Python.continue_breal.executor": "Run",
-    "Python.creat_file.executor": "Run",
-    "Python.creating_classes.executor": "Run",
-    "Python.custom_Exception.executor": "Run",
-    "Python.dic_key_value.executor": "Run",
-    "Python.dict_3.executor": "Run",
-    "Python.dictonary.executor": "Run",
-    "Python.die_game.executor": "Run",
-    "Python.doc_string.executor": "Run",
-    "Python.filter.executor": "Run",
-    "Python.foorloop.executor": "Run",
-    "Python.frame.executor": "Run",
-    "Python.frozen_set.executor": "Run",
-    "Python.guess_the _number_question.executor": "Run",
-    "Python.inheritance.executor": "Run",
-    "Python.input_taking_from_user.executor": "Run",
-    "Python.instance methode.executor": "Run",
-    "Python.instance_initlizer.executor": "Run",
-    "Python.intro2_tkinder.executor": "Run",
-    "Python.intro_tkinter.executor": "Run",
-    "Python.json_module.executor": "Run",
-    "Python.list.executor": "Run",
-    "Python.local_variable.executor": "Run",
-    "Python.loop_1.executor": "Run",
-    "Python.loop_2.executor": "Run",
-    "Python.map.executor": "Run",
-    "Python.match_regex.executor": "Run",
-    "Python.max_min_number_loop.executor": "Run",
-    "Python.module.executor": "Run",
-    "Python.multilevel_inheritance.executor": "Run",
-    "Python.multipleInheritance.executor": "Run",
-    "Python.my_code.executor": "Run",
-    "Python.nested_loop.executor": "Run",
-    "Python.numrical_opration_onl_ist.executor": "Run",
-    "Python.odd_even_number.executor": "Run",
-    "Python.oops_in_python.executor": "Run",
-    "Python.operator_overloding.executor": "Run",
-    "Python.pass_function_as_argument.executor": "Run",
-    "Python.pickel_module.executor": "Run",
-    "Python.piclle_module.executor": "Run",
-    "Python.polymorphism.executor": "Run",
-    "Python.quantifiers.executor": "Run",
-    "Python.random_module.executor": "Run",
-    "Python.range_python.executor": "Run",
-    "Python.re_compile().executor": "Run",
-    "Python.recurcion.executor": "Run",
-    "Python.recurcive_factorial.executor": "Run",
-    "Python.regex_function.executor": "Run",
-    "Python.regex_metacharacters.executor": "Run",
-    "Python.regex_spacel_chars.executor": "Run",
-    "Python.regular_expration.executor": "Run",
-    "Python.rising_exception.executor": "Run",
-    "Python.set.executor": "Run",
-    "Python.set_2.executor": "Run",
-    "Python.shallow_copy.executor": "Run",
-    "Python.simple_banking_app.executor": "Run",
-    "Python.singleInheritance.executor": "Run",
-    "Python.star_pattern.executor": "Run",
-    "Python.tuple.executor": "Run",
-    "Python.type_of_argument.executor": "Run",
-    "Python.w_mode.executor": "Run",
-    "Python.while_loop.executor": "Run",
-    "Python.while_loop_1.executor": "Run",
-    "Python.word_count.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "master",
-    "last_opened_file_path": "D:/Python",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "run.code.analysis.last.selected.profile": "aDefault",
-    "settings.editor.selected.configurable": "editor.preferences.completion",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Python.1_random_module.executor&quot;: &quot;Run&quot;,
+    &quot;Python.8_function.executor&quot;: &quot;Run&quot;,
+    &quot;Python.9_function.executor&quot;: &quot;Run&quot;,
+    &quot;Python.AppendingContant to a file.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Error_Exception_handling.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Exception_handling.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Intro_file_handling.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Phone_book.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Quettin_TheWindow.executor&quot;: &quot;Run&quot;,
+    &quot;Python.RegEx.executor&quot;: &quot;Run&quot;,
+    &quot;Python.The_with_statment.executor&quot;: &quot;Run&quot;,
+    &quot;Python.anonums_function.executor&quot;: &quot;Run&quot;,
+    &quot;Python.arithmetic.executor&quot;: &quot;Run&quot;,
+    &quot;Python.atribute.executor&quot;: &quot;Run&quot;,
+    &quot;Python.butten_property_lable.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ch2qustiin4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.check_file_exists.executor&quot;: &quot;Run&quot;,
+    &quot;Python.class.executor&quot;: &quot;Run&quot;,
+    &quot;Python.class_variable.executor&quot;: &quot;Run&quot;,
+    &quot;Python.common_issue_file.executor&quot;: &quot;Run&quot;,
+    &quot;Python.conditional_operation.executor&quot;: &quot;Run&quot;,
+    &quot;Python.continue_breal.executor&quot;: &quot;Run&quot;,
+    &quot;Python.creat_file.executor&quot;: &quot;Run&quot;,
+    &quot;Python.creating_classes.executor&quot;: &quot;Run&quot;,
+    &quot;Python.custom_Exception.executor&quot;: &quot;Run&quot;,
+    &quot;Python.dic_key_value.executor&quot;: &quot;Run&quot;,
+    &quot;Python.dict_3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.dictonary.executor&quot;: &quot;Run&quot;,
+    &quot;Python.die_game.executor&quot;: &quot;Run&quot;,
+    &quot;Python.doc_string.executor&quot;: &quot;Run&quot;,
+    &quot;Python.filter.executor&quot;: &quot;Run&quot;,
+    &quot;Python.foorloop.executor&quot;: &quot;Run&quot;,
+    &quot;Python.frame.executor&quot;: &quot;Run&quot;,
+    &quot;Python.frozen_set.executor&quot;: &quot;Run&quot;,
+    &quot;Python.guess_the _number_question.executor&quot;: &quot;Run&quot;,
+    &quot;Python.inheritance.executor&quot;: &quot;Run&quot;,
+    &quot;Python.input_taking_from_user.executor&quot;: &quot;Run&quot;,
+    &quot;Python.instance methode.executor&quot;: &quot;Run&quot;,
+    &quot;Python.instance_initlizer.executor&quot;: &quot;Run&quot;,
+    &quot;Python.intro2_tkinder.executor&quot;: &quot;Run&quot;,
+    &quot;Python.intro_tkinter.executor&quot;: &quot;Run&quot;,
+    &quot;Python.json_module.executor&quot;: &quot;Run&quot;,
+    &quot;Python.list.executor&quot;: &quot;Run&quot;,
+    &quot;Python.local_variable.executor&quot;: &quot;Run&quot;,
+    &quot;Python.loop_1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.loop_2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.map.executor&quot;: &quot;Run&quot;,
+    &quot;Python.match_regex.executor&quot;: &quot;Run&quot;,
+    &quot;Python.max_min_number_loop.executor&quot;: &quot;Run&quot;,
+    &quot;Python.module.executor&quot;: &quot;Run&quot;,
+    &quot;Python.multilevel_inheritance.executor&quot;: &quot;Run&quot;,
+    &quot;Python.multipleInheritance.executor&quot;: &quot;Run&quot;,
+    &quot;Python.my_code.executor&quot;: &quot;Run&quot;,
+    &quot;Python.nested_loop.executor&quot;: &quot;Run&quot;,
+    &quot;Python.numrical_opration_onl_ist.executor&quot;: &quot;Run&quot;,
+    &quot;Python.odd_even_number.executor&quot;: &quot;Run&quot;,
+    &quot;Python.oops_in_python.executor&quot;: &quot;Run&quot;,
+    &quot;Python.operator_overloding.executor&quot;: &quot;Run&quot;,
+    &quot;Python.pass_function_as_argument.executor&quot;: &quot;Run&quot;,
+    &quot;Python.pickel_module.executor&quot;: &quot;Run&quot;,
+    &quot;Python.piclle_module.executor&quot;: &quot;Run&quot;,
+    &quot;Python.polymorphism.executor&quot;: &quot;Run&quot;,
+    &quot;Python.quantifiers.executor&quot;: &quot;Run&quot;,
+    &quot;Python.random_module.executor&quot;: &quot;Run&quot;,
+    &quot;Python.range_python.executor&quot;: &quot;Run&quot;,
+    &quot;Python.re_compile().executor&quot;: &quot;Run&quot;,
+    &quot;Python.recurcion.executor&quot;: &quot;Run&quot;,
+    &quot;Python.recurcive_factorial.executor&quot;: &quot;Run&quot;,
+    &quot;Python.regex_function.executor&quot;: &quot;Run&quot;,
+    &quot;Python.regex_metacharacters.executor&quot;: &quot;Run&quot;,
+    &quot;Python.regex_spacel_chars.executor&quot;: &quot;Run&quot;,
+    &quot;Python.regular_expration.executor&quot;: &quot;Run&quot;,
+    &quot;Python.rising_exception.executor&quot;: &quot;Run&quot;,
+    &quot;Python.set.executor&quot;: &quot;Run&quot;,
+    &quot;Python.set_2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.shallow_copy.executor&quot;: &quot;Run&quot;,
+    &quot;Python.simple_banking_app.executor&quot;: &quot;Run&quot;,
+    &quot;Python.singleInheritance.executor&quot;: &quot;Run&quot;,
+    &quot;Python.star_pattern.executor&quot;: &quot;Run&quot;,
+    &quot;Python.tuple.executor&quot;: &quot;Run&quot;,
+    &quot;Python.type_of_argument.executor&quot;: &quot;Run&quot;,
+    &quot;Python.w_mode.executor&quot;: &quot;Run&quot;,
+    &quot;Python.while_loop.executor&quot;: &quot;Run&quot;,
+    &quot;Python.while_loop_1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.word_count.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Python&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;run.code.analysis.last.selected.profile&quot;: &quot;aDefault&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.completion&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -166,7 +168,8 @@
       <workItem from="1762222753232" duration="7414000" />
       <workItem from="1762266070453" duration="2362000" />
       <workItem from="1762329506950" duration="5856000" />
-      <workItem from="1762446184970" duration="2925000" />
+      <workItem from="1762446184970" duration="3114000" />
+      <workItem from="1762606948494" duration="8027000" />
     </task>
     <task id="LOCAL-00001" summary="updated codes">
       <option name="closed" value="true" />
@@ -231,7 +234,7 @@
     <SUITE FILE_PATH="coverage/Python$instance_initlizer.coverage" NAME="instance_initlizer Coverage Results" MODIFIED="1761996378372" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/object_orinted_programing" />
     <SUITE FILE_PATH="coverage/Python$w_mode.coverage" NAME="w_mode Coverage Results" MODIFIED="1761915512662" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Python$json_module.coverage" NAME="json_module Coverage Results" MODIFIED="1761911119193" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Python$frame.coverage" NAME="frame Coverage Results" MODIFIED="1762449130673" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Tkiner_Python" />
+    <SUITE FILE_PATH="coverage/Python$frame.coverage" NAME="frame Coverage Results" MODIFIED="1762610379880" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Tkiner_Python" />
     <SUITE FILE_PATH="coverage/Python$while_loop.coverage" NAME="while_loop Coverage Results" MODIFIED="1761460550585" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Python$continue_breal.coverage" NAME="continue_breal Coverage Results" MODIFIED="1761460134468" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Python$word_count.coverage" NAME="word_count Coverage Results" MODIFIED="1761590683542" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -254,7 +257,7 @@
     <SUITE FILE_PATH="coverage/Python$ch2qustiin4.coverage" NAME="ch2qustiin4 Coverage Results" MODIFIED="1760698001268" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Python$1_random_module.coverage" NAME="1_random_module Coverage Results" MODIFIED="1761833396038" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Python$AppendingContant_to_a_file.coverage" NAME="AppendingContant to a file Coverage Results" MODIFIED="1761892232582" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Python$Quettin_TheWindow.coverage" NAME="Quettin_TheWindow Coverage Results" MODIFIED="1762448728455" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Tkiner_Python" />
+    <SUITE FILE_PATH="coverage/Python$Quettin_TheWindow.coverage" NAME="Quettin_TheWindow Coverage Results" MODIFIED="1762616332718" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Tkiner_Python" />
     <SUITE FILE_PATH="coverage/Python$range_python.coverage" NAME="range_python Coverage Results" MODIFIED="1761452417162" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Python$8_function.coverage" NAME="8_function Coverage Results" MODIFIED="1761805009497" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/function&amp;Recurson" />
     <SUITE FILE_PATH="coverage/Python$quantifiers.coverage" NAME="quantifiers Coverage Results" MODIFIED="1761972365805" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
