@@ -6,8 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="194a8cdb-f97c-452f-91dc-f78a76e5912b" name="Changes" comment="updated codes">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tkiner_Python/Quettin_TheWindow.py" beforeDir="false" afterPath="$PROJECT_DIR$/Tkiner_Python/Quettin_TheWindow.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tkiner_Python/frame.py" beforeDir="false" afterPath="$PROJECT_DIR$/Tkiner_Python/frame.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -169,7 +167,8 @@
       <workItem from="1762266070453" duration="2362000" />
       <workItem from="1762329506950" duration="5856000" />
       <workItem from="1762446184970" duration="3114000" />
-      <workItem from="1762606948494" duration="8027000" />
+      <workItem from="1762606948494" duration="8922000" />
+      <workItem from="1762676672618" duration="88000" />
     </task>
     <task id="LOCAL-00001" summary="updated codes">
       <option name="closed" value="true" />
@@ -257,7 +256,7 @@
     <SUITE FILE_PATH="coverage/Python$ch2qustiin4.coverage" NAME="ch2qustiin4 Coverage Results" MODIFIED="1760698001268" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Python$1_random_module.coverage" NAME="1_random_module Coverage Results" MODIFIED="1761833396038" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Python$AppendingContant_to_a_file.coverage" NAME="AppendingContant to a file Coverage Results" MODIFIED="1761892232582" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Python$Quettin_TheWindow.coverage" NAME="Quettin_TheWindow Coverage Results" MODIFIED="1762616332718" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Tkiner_Python" />
+    <SUITE FILE_PATH="coverage/Python$Quettin_TheWindow.coverage" NAME="Quettin_TheWindow Coverage Results" MODIFIED="1762616877179" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Tkiner_Python" />
     <SUITE FILE_PATH="coverage/Python$range_python.coverage" NAME="range_python Coverage Results" MODIFIED="1761452417162" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Python$8_function.coverage" NAME="8_function Coverage Results" MODIFIED="1761805009497" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/function&amp;Recurson" />
     <SUITE FILE_PATH="coverage/Python$quantifiers.coverage" NAME="quantifiers Coverage Results" MODIFIED="1761972365805" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
